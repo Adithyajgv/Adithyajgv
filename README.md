@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi! 👋🏻 My name is Adithya Jyothish Gopal
+<p><img src ="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white"/><img src ="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/><img src ="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/><img src ="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/><img src ="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white"/><img src ="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/><img src ="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/><img src ="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white"/><img src ="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/><img src ="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4"/><img src ="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/><img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></p>
 
-<!--
-**Adithyajgv/Adithyajgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspireing Computer & Data Scientist
 
-Here are some ideas to get you started:
+My name is Adithya, i also go by Adi. I am a sophomore at UW-Madison majoring in Computer Science and Data science. My interests lie in Embedded systems development and AI modelling, training & deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍 I'm actually from India, but lived most of my life in lllinois
+
+* ✉️ You can contact me at [jyothishgopa@wisc.edu](mailto:jyothishgopa@wisc.edu)
+* 🚀 I'm currently working on [AdiOS](github.com/Adithyajgv/Adios)
+
+* 🤝 I'm open to collaborating OS Management & Development, Compiler Management & Development, Game Development, AI Training, Deployment & Management, and AI/ML Research.
+* ⚡ I enjoy collecting coins and reading
+
+### My Skills
+
+<p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/c-color.svg alt="" width="45px" height="45px"/><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/cplusplus-color.svg alt="" width="45px" height="45px"/><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/java-color.svg alt="" width="45px" height="45px"/><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/python-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/html5-color.svg alt="" width="45px" height="45px"/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/css3-color.svg alt="" width="45px" height="45px"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/mysql-color.svg alt="" width="45px" height="45px"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/firebase-color.svg alt="" width="45px" height="45px"/><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/intellij-color.svg alt="" width="45px" height="45px"/><a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/eclipse-color.svg alt="" width="45px" height="45px"/><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/vscode-color.svg alt="" width="45px" height="45px"/><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/xcode-color.svg alt="" width="45px" height="45px"/><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/swift-color.svg alt="" width="45px" height="45px"/></p>
+
+
+### Find Me Also Here
+
+<p align="left"><a href=https://www.github.com/Adithyajgv target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/github.svg width="45px" height="45px" /></a><a href=https://www.instagram.com/adithyagop target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/instagram.svg width="45px" height="45px" /></a><a href=https://www.linkedin.com/in/adithya-jyothish-gopal-738ab3330/ target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/linkedin.svg width="45px" height="45px" /></a></p>
+
+
+
+![GitProfile-Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Adithyajgv&show_icons=true&theme=highcontrast)
+
+![GitProfile-Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adithyajgv&theme=merko)
+
+- This Profile Created By <a href="https://profilegit.netlify.app/">GitProfile</a>
