@@ -5,7 +5,7 @@
 
 My name is Adithya, i also go by Adi. I am a sophomore at UW-Madison majoring in Computer Science and Data science. My interests lie in Embedded systems development and AI modelling, training & deployment.
 
-* 🌍 I'm actually from India, but lived most of my life in lllinois
+* 🌍 I'm actually from Karnataka,India. However, I lived most of my life in lllinois,USA.
 
 * ✉️ You can contact me at [jyothishgopa@wisc.edu](mailto:jyothishgopa@wisc.edu)
 * 🚀 I'm currently working on [AdiOS](github.com/Adithyajgv/Adios)
